@@ -29,5 +29,11 @@ the final data:
 
 ![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/630c2cf2-f992-421f-a415-3f0c012f2164)
 
-From this![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/6a07e5f5-8f12-477a-84ff-490588e44cb9)
-To this ![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/822a69a8-b833-463d-829c-66635c33f7ac)
+These courses after uploading in Woo-commerce will be displayed:
+from this original website (unica)
+
+![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/6a07e5f5-8f12-477a-84ff-490588e44cb9)
+
+To my affiliate website
+
+![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/822a69a8-b833-463d-829c-66635c33f7ac)
