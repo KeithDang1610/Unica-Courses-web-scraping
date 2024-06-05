@@ -20,7 +20,7 @@ The fields that need to be scraped are the information of these courses, includi
 
 The courses will be classified into individual categories respectively.
 
-Data is finally stored in the CSV file (the template file of the woo-commerce plugin in WordPress that you need to compile putting the correct data into the right columns).
+Data is finally stored in the CSV file (the template file of the woo-commerce plugin in WordPress that you need to compile putting the correct data into the right columns).The picture below:
 
 ![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/f9dca161-b6b3-4b8c-b96b-73d496b167f7)
 
