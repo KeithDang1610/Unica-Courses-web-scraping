@@ -1,7 +1,10 @@
 # Unica-Courses-web-scraping
 web-scraping for gathering all online course info of the Unica website into Excel files (CSV), then cleaning and extracting them into the right formats which are properly uploaded in WordPress woo-commerce (It's legal because I am doing affiliate marketing)
+From this website:
 ![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/c7ab72f2-dc44-4528-8079-49666d057c3a)
-into my own website![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/61ae2878-8ac8-4fbf-8724-a0bafff44a94)
+
+into my own website(below)
+![image](https://github.com/KeithDang1610/Unica-Courses-web-scraping/assets/167521177/61ae2878-8ac8-4fbf-8724-a0bafff44a94)
 The fields that need to be scraped are the information of these courses, including: 
 + The course names
 + The original Price
