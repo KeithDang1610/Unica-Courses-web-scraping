@@ -1,4 +1,4 @@
-# Unica-Courses-web-scraping
+# Unica-Courses-Web-Scraping (Part 1)
 web-scraping for gathering all online course info of the Unica website into Excel files (CSV), then cleaning and extracting them into the right formats which are properly uploaded in WordPress woo-commerce (It's legal because I am doing affiliate marketing)
 From this website:
 
